@@ -9,5 +9,3 @@ export const reportTypeOptions = [
   { label: 'Cash', value: 'cash' },
   { label: 'Pure Gold', value: 'pure_gold' },
 ];
-
-
